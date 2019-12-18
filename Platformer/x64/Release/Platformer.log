@@ -1,0 +1,368 @@
+﻿  ControlsСHero.cpp
+G:\Program\Microsoft Visual Studio\Project\Новая папка\Platformer-master\Platformer\ControlsСHero.cpp(1,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+G:\Program\Microsoft Visual Studio\Project\Новая папка\Platformer-master\Platformer\ClassHero.h(106,43): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+G:\Program\Microsoft Visual Studio\Project\Новая папка\Platformer-master\Platformer\ClassHero.h(106,39): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+G:\Program\Microsoft Visual Studio\Project\Новая папка\Platformer-master\Platformer\ClassHero.h(114,37): warning C4244: +=: преобразование "float" в "int", возможна потеря данных
+G:\Program\Microsoft Visual Studio\Project\Новая папка\Platformer-master\Platformer\ClassHero.h(141,33): warning C4244: return: преобразование "int" в "float", возможна потеря данных
+G:\Program\Microsoft Visual Studio\Project\Новая папка\Platformer-master\Platformer\ClassHero.h(142,30): warning C4244: return: преобразование "int" в "float", возможна потеря данных
+G:\Program\Microsoft Visual Studio\Project\Новая папка\Platformer-master\Platformer\ClassHero.h(194,42): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+G:\Program\Microsoft Visual Studio\Project\Новая папка\Platformer-master\Platformer\ClassHero.h(195,48): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+G:\Program\Microsoft Visual Studio\Project\Новая папка\Platformer-master\Platformer\OptimizedControlsCHero.h(7,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+  FunctionsCHero.cpp
+G:\Program\Microsoft Visual Studio\Project\Новая папка\Platformer-master\Platformer\FunctionsCHero.cpp(6,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+G:\Program\Microsoft Visual Studio\Project\Новая папка\Platformer-master\Platformer\ClassHero.h(106,43): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+G:\Program\Microsoft Visual Studio\Project\Новая папка\Platformer-master\Platformer\ClassHero.h(106,39): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+G:\Program\Microsoft Visual Studio\Project\Новая папка\Platformer-master\Platformer\ClassHero.h(114,37): warning C4244: +=: преобразование "float" в "int", возможна потеря данных
+G:\Program\Microsoft Visual Studio\Project\Новая папка\Platformer-master\Platformer\ClassHero.h(141,33): warning C4244: return: преобразование "int" в "float", возможна потеря данных
+G:\Program\Microsoft Visual Studio\Project\Новая папка\Platformer-master\Platformer\ClassHero.h(142,30): warning C4244: return: преобразование "int" в "float", возможна потеря данных
+G:\Program\Microsoft Visual Studio\Project\Новая папка\Platformer-master\Platformer\ClassHero.h(194,42): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+G:\Program\Microsoft Visual Studio\Project\Новая папка\Platformer-master\Platformer\ClassHero.h(195,48): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+G:\Program\Microsoft Visual Studio\Project\Новая папка\Platformer-master\Platformer\FunctionsCHero.cpp(35,16): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+G:\Program\Microsoft Visual Studio\Project\Новая папка\Platformer-master\Platformer\FunctionsCHero.cpp(128,65): warning C4305: аргумент: усечение из "double" в "float"
+G:\Program\Microsoft Visual Studio\Project\Новая папка\Platformer-master\Platformer\FunctionsCHero.cpp(131,66): warning C4305: аргумент: усечение из "double" в "float"
+G:\Program\Microsoft Visual Studio\Project\Новая папка\Platformer-master\Platformer\FunctionsCHero.cpp(134,66): warning C4305: аргумент: усечение из "double" в "float"
+G:\Program\Microsoft Visual Studio\Project\Новая папка\Platformer-master\Platformer\FunctionsCHero.cpp(137,65): warning C4305: аргумент: усечение из "double" в "float"
+G:\Program\Microsoft Visual Studio\Project\Новая папка\Platformer-master\Platformer\FunctionsCHero.cpp(149,64): warning C4305: аргумент: усечение из "double" в "float"
+G:\Program\Microsoft Visual Studio\Project\Новая папка\Platformer-master\Platformer\FunctionsCHero.cpp(152,65): warning C4305: аргумент: усечение из "double" в "float"
+G:\Program\Microsoft Visual Studio\Project\Новая папка\Platformer-master\Platformer\FunctionsCHero.cpp(155,65): warning C4305: аргумент: усечение из "double" в "float"
+G:\Program\Microsoft Visual Studio\Project\Новая папка\Platformer-master\Platformer\FunctionsCHero.cpp(158,64): warning C4305: аргумент: усечение из "double" в "float"
+G:\Program\Microsoft Visual Studio\Project\Новая папка\Platformer-master\Platformer\FunctionsCHero.cpp(170,63): warning C4305: аргумент: усечение из "double" в "float"
+G:\Program\Microsoft Visual Studio\Project\Новая папка\Platformer-master\Platformer\FunctionsCHero.cpp(180,63): warning C4305: аргумент: усечение из "double" в "float"
+G:\Program\Microsoft Visual Studio\Project\Новая папка\Platformer-master\Platformer\FunctionsCHero.cpp(188,64): warning C4305: аргумент: усечение из "double" в "float"
+G:\Program\Microsoft Visual Studio\Project\Новая папка\Platformer-master\Platformer\FunctionsCHero.cpp(196,64): warning C4305: аргумент: усечение из "double" в "float"
+G:\Program\Microsoft Visual Studio\Project\Новая папка\Platformer-master\Platformer\FunctionsCHero.cpp(204,66): warning C4305: аргумент: усечение из "double" в "float"
+G:\Program\Microsoft Visual Studio\Project\Новая папка\Platformer-master\Platformer\FunctionsCHero.cpp(213,66): warning C4305: аргумент: усечение из "double" в "float"
+G:\Program\Microsoft Visual Studio\Project\Новая папка\Platformer-master\Platformer\FunctionsCHero.cpp(221,68): warning C4305: аргумент: усечение из "double" в "float"
+G:\Program\Microsoft Visual Studio\Project\Новая папка\Platformer-master\Platformer\FunctionsCHero.cpp(229,68): warning C4305: аргумент: усечение из "double" в "float"
+G:\Program\Microsoft Visual Studio\Project\Новая папка\Platformer-master\Platformer\FunctionsCHero.cpp(237,65): warning C4305: аргумент: усечение из "double" в "float"
+G:\Program\Microsoft Visual Studio\Project\Новая папка\Platformer-master\Platformer\FunctionsCHero.cpp(246,65): warning C4305: аргумент: усечение из "double" в "float"
+G:\Program\Microsoft Visual Studio\Project\Новая папка\Platformer-master\Platformer\FunctionsCHero.cpp(254,67): warning C4305: аргумент: усечение из "double" в "float"
+G:\Program\Microsoft Visual Studio\Project\Новая папка\Platformer-master\Platformer\FunctionsCHero.cpp(262,67): warning C4305: аргумент: усечение из "double" в "float"
+G:\Program\Microsoft Visual Studio\Project\Новая папка\Platformer-master\Platformer\FunctionsCHero.cpp(271,64): warning C4305: аргумент: усечение из "double" в "float"
+G:\Program\Microsoft Visual Studio\Project\Новая папка\Platformer-master\Platformer\FunctionsCHero.cpp(280,64): warning C4305: аргумент: усечение из "double" в "float"
+G:\Program\Microsoft Visual Studio\Project\Новая папка\Platformer-master\Platformer\FunctionsCHero.cpp(288,65): warning C4305: аргумент: усечение из "double" в "float"
+G:\Program\Microsoft Visual Studio\Project\Новая папка\Platformer-master\Platformer\FunctionsCHero.cpp(296,65): warning C4305: аргумент: усечение из "double" в "float"
+G:\Program\Microsoft Visual Studio\Project\Новая папка\Platformer-master\Platformer\FunctionsCHero.cpp(305,67): warning C4305: аргумент: усечение из "double" в "float"
+G:\Program\Microsoft Visual Studio\Project\Новая папка\Platformer-master\Platformer\FunctionsCHero.cpp(314,67): warning C4305: аргумент: усечение из "double" в "float"
+G:\Program\Microsoft Visual Studio\Project\Новая папка\Platformer-master\Platformer\FunctionsCHero.cpp(322,69): warning C4305: аргумент: усечение из "double" в "float"
+G:\Program\Microsoft Visual Studio\Project\Новая папка\Platformer-master\Platformer\FunctionsCHero.cpp(330,69): warning C4305: аргумент: усечение из "double" в "float"
+G:\Program\Microsoft Visual Studio\Project\Новая папка\Platformer-master\Platformer\FunctionsCHero.cpp(339,66): warning C4305: аргумент: усечение из "double" в "float"
+G:\Program\Microsoft Visual Studio\Project\Новая папка\Platformer-master\Platformer\FunctionsCHero.cpp(348,66): warning C4305: аргумент: усечение из "double" в "float"
+G:\Program\Microsoft Visual Studio\Project\Новая папка\Platformer-master\Platformer\FunctionsCHero.cpp(356,68): warning C4305: аргумент: усечение из "double" в "float"
+G:\Program\Microsoft Visual Studio\Project\Новая папка\Platformer-master\Platformer\FunctionsCHero.cpp(364,68): warning C4305: аргумент: усечение из "double" в "float"
+G:\Program\Microsoft Visual Studio\Project\Новая папка\Platformer-master\Platformer\FunctionsCHero.cpp(371,193): warning C4305: аргумент: усечение из "double" в "float"
+G:\Program\Microsoft Visual Studio\Project\Новая папка\Platformer-master\Platformer\FunctionsCHero.cpp(377,209): warning C4305: аргумент: усечение из "double" в "float"
+G:\Program\Microsoft Visual Studio\Project\Новая папка\Platformer-master\Platformer\FunctionsCHero.cpp(383,205): warning C4305: аргумент: усечение из "double" в "float"
+G:\Program\Microsoft Visual Studio\Project\Новая папка\Platformer-master\Platformer\FunctionsCHero.cpp(389,200): warning C4305: аргумент: усечение из "double" в "float"
+G:\Program\Microsoft Visual Studio\Project\Новая папка\Platformer-master\Platformer\FunctionsCHero.cpp(395,216): warning C4305: аргумент: усечение из "double" в "float"
+G:\Program\Microsoft Visual Studio\Project\Новая папка\Platformer-master\Platformer\FunctionsCHero.cpp(401,212): warning C4305: аргумент: усечение из "double" в "float"
+G:\Program\Microsoft Visual Studio\Project\Новая папка\Platformer-master\Platformer\FunctionsCHero.cpp(407,205): warning C4305: аргумент: усечение из "double" в "float"
+G:\Program\Microsoft Visual Studio\Project\Новая папка\Platformer-master\Platformer\FunctionsCHero.cpp(413,216): warning C4305: аргумент: усечение из "double" в "float"
+G:\Program\Microsoft Visual Studio\Project\Новая папка\Platformer-master\Platformer\FunctionsCHero.cpp(419,212): warning C4305: аргумент: усечение из "double" в "float"
+G:\Program\Microsoft Visual Studio\Project\Новая папка\Platformer-master\Platformer\FunctionsCHero.cpp(425,212): warning C4305: аргумент: усечение из "double" в "float"
+G:\Program\Microsoft Visual Studio\Project\Новая папка\Platformer-master\Platformer\FunctionsCHero.cpp(431,223): warning C4305: аргумент: усечение из "double" в "float"
+G:\Program\Microsoft Visual Studio\Project\Новая папка\Platformer-master\Platformer\FunctionsCHero.cpp(437,219): warning C4305: аргумент: усечение из "double" в "float"
+G:\Program\Microsoft Visual Studio\Project\Новая папка\Platformer-master\Platformer\FunctionsCHero.cpp(443,206): warning C4305: аргумент: усечение из "double" в "float"
+G:\Program\Microsoft Visual Studio\Project\Новая папка\Platformer-master\Platformer\FunctionsCHero.cpp(449,214): warning C4305: аргумент: усечение из "double" в "float"
+G:\Program\Microsoft Visual Studio\Project\Новая папка\Platformer-master\Platformer\FunctionsCHero.cpp(455,211): warning C4305: аргумент: усечение из "double" в "float"
+G:\Program\Microsoft Visual Studio\Project\Новая папка\Platformer-master\Platformer\FunctionsCHero.cpp(461,212): warning C4305: аргумент: усечение из "double" в "float"
+G:\Program\Microsoft Visual Studio\Project\Новая папка\Platformer-master\Platformer\FunctionsCHero.cpp(467,220): warning C4305: аргумент: усечение из "double" в "float"
+G:\Program\Microsoft Visual Studio\Project\Новая папка\Platformer-master\Platformer\FunctionsCHero.cpp(473,217): warning C4305: аргумент: усечение из "double" в "float"
+  FunctionsCNPCEnemyCommonDLight.cpp
+G:\Program\Microsoft Visual Studio\Project\Новая папка\Platformer-master\Platformer\ClassNPCEnemyCommonDLight.h(24,1): warning C4305: =: усечение из "double" в "float"
+G:\Program\Microsoft Visual Studio\Project\Новая папка\Platformer-master\Platformer\ClassNPCEnemyCommonDLight.h(36,43): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+G:\Program\Microsoft Visual Studio\Project\Новая папка\Platformer-master\Platformer\ClassNPCEnemyCommonDLight.h(36,39): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+G:\Program\Microsoft Visual Studio\Project\Новая папка\Platformer-master\Platformer\ClassHero.h(106,43): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+G:\Program\Microsoft Visual Studio\Project\Новая папка\Platformer-master\Platformer\ClassHero.h(106,39): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+G:\Program\Microsoft Visual Studio\Project\Новая папка\Platformer-master\Platformer\ClassHero.h(114,37): warning C4244: +=: преобразование "float" в "int", возможна потеря данных
+G:\Program\Microsoft Visual Studio\Project\Новая папка\Platformer-master\Platformer\ClassHero.h(141,33): warning C4244: return: преобразование "int" в "float", возможна потеря данных
+G:\Program\Microsoft Visual Studio\Project\Новая папка\Platformer-master\Platformer\ClassHero.h(142,30): warning C4244: return: преобразование "int" в "float", возможна потеря данных
+G:\Program\Microsoft Visual Studio\Project\Новая папка\Platformer-master\Platformer\ClassHero.h(194,42): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+G:\Program\Microsoft Visual Studio\Project\Новая папка\Platformer-master\Platformer\ClassHero.h(195,48): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+G:\Program\Microsoft Visual Studio\Project\Новая папка\Platformer-master\Platformer\FunctionsCNPCEnemyCommonDLight.cpp(15,42): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+G:\Program\Microsoft Visual Studio\Project\Новая папка\Platformer-master\Platformer\FunctionsCNPCEnemyCommonDLight.cpp(75,64): warning C4305: аргумент: усечение из "double" в "float"
+G:\Program\Microsoft Visual Studio\Project\Новая папка\Platformer-master\Platformer\FunctionsCNPCEnemyCommonDLight.cpp(82,63): warning C4305: аргумент: усечение из "double" в "float"
+  Main.cpp
+G:\Program\Microsoft Visual Studio\Project\Новая папка\Platformer-master\Platformer\ClassHero.h(106,43): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+G:\Program\Microsoft Visual Studio\Project\Новая папка\Platformer-master\Platformer\ClassHero.h(106,39): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+G:\Program\Microsoft Visual Studio\Project\Новая папка\Platformer-master\Platformer\ClassHero.h(114,37): warning C4244: +=: преобразование "float" в "int", возможна потеря данных
+G:\Program\Microsoft Visual Studio\Project\Новая папка\Platformer-master\Platformer\ClassHero.h(141,33): warning C4244: return: преобразование "int" в "float", возможна потеря данных
+G:\Program\Microsoft Visual Studio\Project\Новая папка\Platformer-master\Platformer\ClassHero.h(142,30): warning C4244: return: преобразование "int" в "float", возможна потеря данных
+G:\Program\Microsoft Visual Studio\Project\Новая папка\Platformer-master\Platformer\ClassHero.h(194,42): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+G:\Program\Microsoft Visual Studio\Project\Новая папка\Platformer-master\Platformer\ClassHero.h(195,48): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+G:\Program\Microsoft Visual Studio\Project\Новая папка\Platformer-master\Platformer\ClassNPCEnemyCommonDLight.h(24,1): warning C4305: =: усечение из "double" в "float"
+G:\Program\Microsoft Visual Studio\Project\Новая папка\Platformer-master\Platformer\ClassNPCEnemyCommonDLight.h(36,43): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+G:\Program\Microsoft Visual Studio\Project\Новая папка\Platformer-master\Platformer\ClassNPCEnemyCommonDLight.h(36,39): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+G:\Program\Microsoft Visual Studio\Project\Новая папка\Platformer-master\Platformer\ClassObjectDBox.h(38,51): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+G:\Program\Microsoft Visual Studio\Project\Новая папка\Platformer-master\Platformer\ClassObjectDBox.h(38,47): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+G:\Program\Microsoft Visual Studio\Project\Новая папка\Platformer-master\Platformer\ClassObjectDBox.h(38,43): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+G:\Program\Microsoft Visual Studio\Project\Новая папка\Platformer-master\Platformer\ClassObjectDBox.h(38,39): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+G:\Program\Microsoft Visual Studio\Project\Новая папка\Platformer-master\Platformer\ClassObjectDBox.h(40,18): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+G:\Program\Microsoft Visual Studio\Project\Новая папка\Platformer-master\Platformer\ClassObjectDTree.h(38,51): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+G:\Program\Microsoft Visual Studio\Project\Новая папка\Platformer-master\Platformer\ClassObjectDTree.h(38,47): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+G:\Program\Microsoft Visual Studio\Project\Новая папка\Platformer-master\Platformer\ClassObjectDTree.h(38,43): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+G:\Program\Microsoft Visual Studio\Project\Новая папка\Platformer-master\Platformer\ClassObjectDTree.h(38,39): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+G:\Program\Microsoft Visual Studio\Project\Новая папка\Platformer-master\Platformer\ClassObjectDTree.h(41,27): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+G:\Program\Microsoft Visual Studio\Project\Новая папка\Platformer-master\Platformer\ClassObjectAnimDGrass.h(14,1): warning C4305: =: усечение из "double" в "float"
+G:\Program\Microsoft Visual Studio\Project\Новая папка\Platformer-master\Platformer\ClassObjectAnimDGrass.h(43,51): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+G:\Program\Microsoft Visual Studio\Project\Новая папка\Platformer-master\Platformer\ClassObjectAnimDGrass.h(43,47): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+G:\Program\Microsoft Visual Studio\Project\Новая папка\Platformer-master\Platformer\ClassObjectAnimDGrass.h(43,43): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+G:\Program\Microsoft Visual Studio\Project\Новая папка\Platformer-master\Platformer\ClassObjectAnimDGrass.h(43,39): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+G:\Program\Microsoft Visual Studio\Project\Новая папка\Platformer-master\Platformer\ClassObjectAnimDGrass.h(46,27): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+G:\Program\Microsoft Visual Studio\Project\Новая папка\Platformer-master\Platformer\ClassObjectAnimDReed.h(14,1): warning C4305: =: усечение из "double" в "float"
+G:\Program\Microsoft Visual Studio\Project\Новая папка\Platformer-master\Platformer\ClassObjectAnimDReed.h(41,51): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+G:\Program\Microsoft Visual Studio\Project\Новая папка\Platformer-master\Platformer\ClassObjectAnimDReed.h(41,47): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+G:\Program\Microsoft Visual Studio\Project\Новая папка\Platformer-master\Platformer\ClassObjectAnimDReed.h(41,43): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+G:\Program\Microsoft Visual Studio\Project\Новая папка\Platformer-master\Platformer\ClassObjectAnimDReed.h(41,39): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+G:\Program\Microsoft Visual Studio\Project\Новая папка\Platformer-master\Platformer\ClassObjectAnimDReed.h(43,18): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+G:\Program\Microsoft Visual Studio\Project\Новая папка\Platformer-master\Platformer\ClassObjectDMapFirst.h(37,50): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+G:\Program\Microsoft Visual Studio\Project\Новая папка\Platformer-master\Platformer\ClassObjectDMapFirst.h(37,46): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+G:\Program\Microsoft Visual Studio\Project\Новая папка\Platformer-master\Platformer\ClassObjectDMapFirst.h(37,42): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+G:\Program\Microsoft Visual Studio\Project\Новая папка\Platformer-master\Platformer\ClassObjectDMapFirst.h(37,38): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+G:\Program\Microsoft Visual Studio\Project\Новая папка\Platformer-master\Platformer\ClassObjectAnimDMapUndFirstTrack.h(26,1): warning C4305: =: усечение из "double" в "float"
+G:\Program\Microsoft Visual Studio\Project\Новая папка\Platformer-master\Platformer\ClassObjectAnimDMapUndFirstTrack.h(37,51): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+G:\Program\Microsoft Visual Studio\Project\Новая папка\Platformer-master\Platformer\ClassObjectAnimDMapUndFirstTrack.h(37,47): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+G:\Program\Microsoft Visual Studio\Project\Новая папка\Platformer-master\Platformer\ClassObjectAnimDMapUndFirstTrack.h(37,43): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+G:\Program\Microsoft Visual Studio\Project\Новая папка\Platformer-master\Platformer\ClassObjectAnimDMapUndFirstTrack.h(37,39): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+G:\Program\Microsoft Visual Studio\Project\Новая папка\Platformer-master\Platformer\ClassObjectDWall.h(34,18): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+G:\Program\Microsoft Visual Studio\Project\Новая папка\Platformer-master\Platformer\ClassNPCFriendlyTalkingDWoman.h(32,1): warning C4305: =: усечение из "double" в "float"
+G:\Program\Microsoft Visual Studio\Project\Новая папка\Platformer-master\Platformer\ClassNPCFriendlyTalkingDWoman.h(39,43): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+G:\Program\Microsoft Visual Studio\Project\Новая папка\Platformer-master\Platformer\ClassNPCFriendlyTalkingDWoman.h(39,39): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+G:\Program\Microsoft Visual Studio\Project\Новая папка\Platformer-master\Platformer\ClassNPCFriendlyTalkingDWoman.h(42,40): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+G:\Program\Microsoft Visual Studio\Project\Новая папка\Platformer-master\Platformer\ClassNPCFriendlyDBunny.h(35,1): warning C4305: =: усечение из "double" в "float"
+G:\Program\Microsoft Visual Studio\Project\Новая папка\Platformer-master\Platformer\ClassNPCFriendlyDBunny.h(42,43): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+G:\Program\Microsoft Visual Studio\Project\Новая папка\Platformer-master\Platformer\ClassNPCFriendlyDBunny.h(42,39): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+G:\Program\Microsoft Visual Studio\Project\Новая папка\Platformer-master\Platformer\ClassBar.h(19,30): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+G:\Program\Microsoft Visual Studio\Project\Новая папка\Platformer-master\Platformer\ClassBar.h(19,25): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+G:\Program\Microsoft Visual Studio\Project\Новая папка\Platformer-master\Platformer\ClassBar.h(20,44): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+G:\Program\Microsoft Visual Studio\Project\Новая папка\Platformer-master\Platformer\ClassBar.h(20,26): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+G:\Program\Microsoft Visual Studio\Project\Новая папка\Platformer-master\Platformer\Main.cpp(74,47): warning C4244: =: преобразование "sf::Int64" в "float", возможна потеря данных
+  Pillars.cpp
+G:\Program\Microsoft Visual Studio\Project\Новая папка\Platformer-master\Platformer\ClassHero.h(106,43): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+G:\Program\Microsoft Visual Studio\Project\Новая папка\Platformer-master\Platformer\ClassHero.h(106,39): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+G:\Program\Microsoft Visual Studio\Project\Новая папка\Platformer-master\Platformer\ClassHero.h(114,37): warning C4244: +=: преобразование "float" в "int", возможна потеря данных
+G:\Program\Microsoft Visual Studio\Project\Новая папка\Platformer-master\Platformer\ClassHero.h(141,33): warning C4244: return: преобразование "int" в "float", возможна потеря данных
+G:\Program\Microsoft Visual Studio\Project\Новая папка\Platformer-master\Platformer\ClassHero.h(142,30): warning C4244: return: преобразование "int" в "float", возможна потеря данных
+G:\Program\Microsoft Visual Studio\Project\Новая папка\Platformer-master\Platformer\ClassHero.h(194,42): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+G:\Program\Microsoft Visual Studio\Project\Новая папка\Platformer-master\Platformer\ClassHero.h(195,48): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+G:\Program\Microsoft Visual Studio\Project\Новая папка\Platformer-master\Platformer\ClassNPCEnemyCommonDLight.h(24,1): warning C4305: =: усечение из "double" в "float"
+G:\Program\Microsoft Visual Studio\Project\Новая папка\Platformer-master\Platformer\ClassNPCEnemyCommonDLight.h(36,43): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+G:\Program\Microsoft Visual Studio\Project\Новая папка\Platformer-master\Platformer\ClassNPCEnemyCommonDLight.h(36,39): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+G:\Program\Microsoft Visual Studio\Project\Новая папка\Platformer-master\Platformer\Pillars.cpp(49,19): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+G:\Program\Microsoft Visual Studio\Project\Новая папка\Platformer-master\Platformer\Pillars.cpp(53,19): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+G:\Program\Microsoft Visual Studio\Project\Новая папка\Platformer-master\Platformer\Pillars.cpp(62,44): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+G:\Program\Microsoft Visual Studio\Project\Новая папка\Platformer-master\Platformer\Pillars.cpp(66,44): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+G:\Program\Microsoft Visual Studio\Project\Новая папка\Platformer-master\Platformer\Pillars.cpp(85,18): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+G:\Program\Microsoft Visual Studio\Project\Новая папка\Platformer-master\Platformer\Pillars.cpp(89,18): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+G:\Program\Microsoft Visual Studio\Project\Новая папка\Platformer-master\Platformer\Pillars.cpp(98,43): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+G:\Program\Microsoft Visual Studio\Project\Новая папка\Platformer-master\Platformer\Pillars.cpp(102,43): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+G:\Program\Microsoft Visual Studio\Project\Новая папка\Platformer-master\Platformer\Pillars.cpp(129,46): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+G:\Program\Microsoft Visual Studio\Project\Новая папка\Platformer-master\Platformer\Pillars.cpp(134,46): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+G:\Program\Microsoft Visual Studio\Project\Новая папка\Platformer-master\Platformer\Pillars.cpp(142,46): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+G:\Program\Microsoft Visual Studio\Project\Новая папка\Platformer-master\Platformer\Pillars.cpp(147,46): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+G:\Program\Microsoft Visual Studio\Project\Новая папка\Platformer-master\Platformer\Pillars.cpp(169,45): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+G:\Program\Microsoft Visual Studio\Project\Новая папка\Platformer-master\Platformer\Pillars.cpp(173,45): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+G:\Program\Microsoft Visual Studio\Project\Новая папка\Platformer-master\Platformer\Pillars.cpp(181,45): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+G:\Program\Microsoft Visual Studio\Project\Новая папка\Platformer-master\Platformer\Pillars.cpp(185,45): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+G:\Program\Microsoft Visual Studio\Project\Новая папка\Platformer-master\Platformer\Pillars.cpp(217,45): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+G:\Program\Microsoft Visual Studio\Project\Новая папка\Platformer-master\Platformer\Pillars.cpp(221,45): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+G:\Program\Microsoft Visual Studio\Project\Новая папка\Platformer-master\Platformer\Pillars.cpp(231,46): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+G:\Program\Microsoft Visual Studio\Project\Новая папка\Platformer-master\Platformer\Pillars.cpp(235,46): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+  Создание кода
+  7 of 559 functions ( 1.3%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  Platformer.vcxproj -> G:\Program\Microsoft Visual Studio\Project\Новая папка\Platformer-master\x64\Release\Platformer.exe
