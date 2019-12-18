@@ -1,0 +1,9 @@
+﻿  FunctionControlsСHero.cpp
+c:\users\thisb\source\repos\platformer 0.1.1\platformerver1\platformer\platformer\functioncontrolsсhero.cpp(1): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+c:\users\thisb\source\repos\platformer 0.1.1\platformerver1\platformer\platformer\controlschero.h(3): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+c:\users\thisb\source\repos\platformer 0.1.1\platformerver1\platformer\platformer\classhero.h(71): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+  Platformer.vcxproj -> C:\Users\thisb\source\repos\Platformer 0.1.1\PlatformerVer1\Platformer\x64\Debug\Platformer.exe
