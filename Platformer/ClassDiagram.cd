@@ -1,0 +1,158 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="NPC" Collapsed="true">
+    <Position X="6.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>DmkiBIgIoAgAAkWAEIKYBFJjWBEkAgCAISAgBCQTVgA=</HashCode>
+      <FileName>ClassNPC.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NPCFriendly" Collapsed="true">
+    <Position X="3.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAEAAAEAgAAAAAAAAAAAAAAAAAAAAQCAA=</HashCode>
+      <FileName>ClassNPCFriendly.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NPCFriendlyTalking" Collapsed="true">
+    <Position X="3.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAA=</HashCode>
+      <FileName>ClassNPCFriendlyTalking.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NPCFriendlyBunny" Collapsed="true">
+    <Position X="0.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAAAAAABAAAAAAAAAQACAESAAAAQACAAAAAQAAA=</HashCode>
+      <FileName>ClassNPCFriendlyDBunny.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NPCFriendlyTalkingWoman" Collapsed="true">
+    <Position X="0.5" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAAAAAAAgAAAAAAAAAAAAAAAAEAACAAAIAAAAA=</HashCode>
+      <FileName>ClassNPCFriendlyTalkingDWoman.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Object" Collapsed="true">
+    <Position X="20.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>mAEkBAgEQEADayMktICQQEEAARAQAAMoqIIAHAAQGiI=</HashCode>
+      <FileName>ClassObject.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ObjectAnim" Collapsed="true">
+    <Position X="23.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAgAAAAkAACAAAAAAAAAAAAAAAAAAoAUAEAAA=</HashCode>
+      <FileName>ClassObjectAnim.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ObjectAnimGrass" Collapsed="true">
+    <Position X="27" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAgAAAAAAAAAAAAAABAAAAAAAAAAA=</HashCode>
+      <FileName>ClassObjectAnimDGrass.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ObjectTree" Collapsed="true">
+    <Position X="17.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAA=</HashCode>
+      <FileName>ClassObjectDTree.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Bar" Collapsed="true">
+    <Position X="32.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAgACgAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAA=</HashCode>
+      <FileName>ClassBar.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HeroHealthBar" Collapsed="true">
+    <Position X="31.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ClassHeroHealthBar.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HeroStaminaBar" Collapsed="true">
+    <Position X="34" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAA=</HashCode>
+      <FileName>ClassHeroStaminaBar.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hero" Collapsed="true">
+    <Position X="3.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>bW1RoHwksKgezmxlEzr4piEtXDoMKnWVr6fIbvW/zvI=</HashCode>
+      <FileName>ClassHero.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NPCEnemy" Collapsed="true">
+    <Position X="9.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAiAA=</HashCode>
+      <FileName>ClassNPCEnemy.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NPCEnemyCommon" Collapsed="true">
+    <Position X="11.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAEAAAEAkAAAAAAACAAAAACCAAAAAAiAA=</HashCode>
+      <FileName>ClassNPCEnemyCommon.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NPCEnemyCommonDLight" Collapsed="true">
+    <Position X="11.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAAEAAAAgAAAAAAAAAABAAAAAEIQCAgAAAAAAA=</HashCode>
+      <FileName>ClassNPCEnemyCommonDLight.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NPCEnemyCommonDHight" Collapsed="true">
+    <Position X="13.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEAAAAgAAAAAAAACABAAAAAEIQCAgAAAAAAA=</HashCode>
+      <FileName>ClassNPCEnemyCommonDHight.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ObjectAnimReed" Collapsed="true">
+    <Position X="27" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ClassObjectAnimDReed.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ObjectMapFirst" Collapsed="true">
+    <Position X="17.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAA=</HashCode>
+      <FileName>ClassObjectDMapFirst.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ObjectTrackMapUndFirst" Collapsed="true">
+    <Position X="27" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ClassObjectAnimDMapUndFirstTrack.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ObjectWall" Collapsed="true">
+    <Position X="17.25" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ClassObjectDWall.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ObjectBox" Collapsed="true">
+    <Position X="17.25" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ClassObjectDBox.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

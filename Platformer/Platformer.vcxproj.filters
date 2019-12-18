@@ -1,0 +1,258 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Исходные файлы">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Файлы заголовков">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Файлы ресурсов">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Файлы заголовков\NPC">
+      <UniqueIdentifier>{b77a9acb-9c43-4bb7-b52d-5c4ae018a7c5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Файлы заголовков\Object">
+      <UniqueIdentifier>{067ee4ae-bbd3-4715-a022-36565ec94984}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Исходные файлы\FunctionsNPC">
+      <UniqueIdentifier>{41cab2b2-0215-413e-8ab0-80d67fd0826b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Исходные файлы\FunctionsObject">
+      <UniqueIdentifier>{e2ce4bba-affd-492f-8d93-c772e6e5e822}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Файлы заголовков\Engine">
+      <UniqueIdentifier>{e4c3eb19-2cc1-4968-8e1c-6a14e3811e3e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Файлы заголовков\Interface">
+      <UniqueIdentifier>{259f53ed-339d-4641-8d81-0fb70277511d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Файлы заголовков\Hero">
+      <UniqueIdentifier>{85fe545f-11af-4140-a89a-d15c2f36cfee}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Файлы заголовков\OptimizedFunctions">
+      <UniqueIdentifier>{cbc5ce14-cb29-40e2-af51-9994e6812ce2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Файлы заголовков\Maps">
+      <UniqueIdentifier>{befe0809-e023-4513-ad16-e7eb43014752}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Файлы заголовков\Maps\MapsFunctions">
+      <UniqueIdentifier>{991c994e-b51b-47d7-9a43-ec27b1e96334}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Исходные файлы\Engine">
+      <UniqueIdentifier>{4884f55b-2920-4698-a2eb-b3ffbe3ceabc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Исходные файлы\OptimizedFunctions">
+      <UniqueIdentifier>{00a69110-4601-4bc5-949c-268630a0a53a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Исходные файлы\Interface">
+      <UniqueIdentifier>{2d9ed05d-16db-497e-9a01-bb746d1448d0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Исходные файлы\Hero">
+      <UniqueIdentifier>{c095a95e-0cb4-4b3e-9124-632f806ae2f5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Файлы заголовков\Object\Determinated">
+      <UniqueIdentifier>{618b0713-b83f-4c02-83e7-da4adb46337f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Файлы заголовков\NPC\Determinated">
+      <UniqueIdentifier>{f9d16755-51cb-478a-bf5d-07d3849ff84a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Исходные файлы\FunctionsMaps">
+      <UniqueIdentifier>{7c90fc2e-a347-4094-af68-2f3b922aeeac}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Исходные файлы\FunctionsNPC\Determinated">
+      <UniqueIdentifier>{e6a803af-0428-4dec-a6ed-c83a26bc6e73}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Исходные файлы\FunctionsObject\Determinated">
+      <UniqueIdentifier>{de95d707-e43b-421f-ba47-bb37edefdb2b}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Main.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="Pillars.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="EngineIntersection.cpp">
+      <Filter>Исходные файлы\Engine</Filter>
+    </ClCompile>
+    <ClCompile Include="EnginePhysics.cpp">
+      <Filter>Исходные файлы\Engine</Filter>
+    </ClCompile>
+    <ClCompile Include="FunctionsCHero.cpp">
+      <Filter>Исходные файлы\Hero</Filter>
+    </ClCompile>
+    <ClCompile Include="ControlsСHero.cpp">
+      <Filter>Исходные файлы\Hero</Filter>
+    </ClCompile>
+    <ClCompile Include="FunctionsCNPC.cpp">
+      <Filter>Исходные файлы\FunctionsNPC</Filter>
+    </ClCompile>
+    <ClCompile Include="FunctionsCObject.cpp">
+      <Filter>Исходные файлы\FunctionsObject</Filter>
+    </ClCompile>
+    <ClCompile Include="FunctionsCObjectAnim.cpp">
+      <Filter>Исходные файлы\FunctionsObject</Filter>
+    </ClCompile>
+    <ClCompile Include="FunctionsOfMaps.cpp">
+      <Filter>Исходные файлы\FunctionsMaps</Filter>
+    </ClCompile>
+    <ClCompile Include="OptimizedRandom.cpp">
+      <Filter>Исходные файлы\OptimizedFunctions</Filter>
+    </ClCompile>
+    <ClCompile Include="OptimizedFunctionsAnimationCHero.cpp">
+      <Filter>Исходные файлы\OptimizedFunctions</Filter>
+    </ClCompile>
+    <ClCompile Include="OptimizedFunctionsAnimation.cpp">
+      <Filter>Исходные файлы\OptimizedFunctions</Filter>
+    </ClCompile>
+    <ClCompile Include="ViewsAndWindow.cpp">
+      <Filter>Исходные файлы\Interface</Filter>
+    </ClCompile>
+    <ClCompile Include="FunctionsOfMapsNPC.cpp">
+      <Filter>Исходные файлы\FunctionsMaps</Filter>
+    </ClCompile>
+    <ClCompile Include="FunctionsCNPCFriendlyTalkingDWoman.cpp">
+      <Filter>Исходные файлы\FunctionsNPC\Determinated</Filter>
+    </ClCompile>
+    <ClCompile Include="FunctionsCNPCFriendlyDBunny.cpp">
+      <Filter>Исходные файлы\FunctionsNPC\Determinated</Filter>
+    </ClCompile>
+    <ClCompile Include="FunctionsCNPCEnemyCommonDLight.cpp">
+      <Filter>Исходные файлы\FunctionsNPC\Determinated</Filter>
+    </ClCompile>
+    <ClCompile Include="FunctionsCNPCEnemyCommonDHight.cpp">
+      <Filter>Исходные файлы\FunctionsNPC\Determinated</Filter>
+    </ClCompile>
+    <ClCompile Include="FunctionsCObjectDWall.cpp">
+      <Filter>Исходные файлы\FunctionsObject\Determinated</Filter>
+    </ClCompile>
+    <ClCompile Include="FunctionsCObjectDMapUndFirst.cpp">
+      <Filter>Исходные файлы\FunctionsObject\Determinated</Filter>
+    </ClCompile>
+    <ClCompile Include="FunctionsCObjectDMapFirst.cpp">
+      <Filter>Исходные файлы\FunctionsObject\Determinated</Filter>
+    </ClCompile>
+    <ClCompile Include="FunctionsCObjectAnimDReed.cpp">
+      <Filter>Исходные файлы\FunctionsObject\Determinated</Filter>
+    </ClCompile>
+    <ClCompile Include="FunctionsCObjectAnimDGrass.cpp">
+      <Filter>Исходные файлы\FunctionsObject\Determinated</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Pillars.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="ClassNPC.h">
+      <Filter>Файлы заголовков\NPC</Filter>
+    </ClInclude>
+    <ClInclude Include="ClassNPCFriendly.h">
+      <Filter>Файлы заголовков\NPC</Filter>
+    </ClInclude>
+    <ClInclude Include="ClassNPCFriendlyTalking.h">
+      <Filter>Файлы заголовков\NPC</Filter>
+    </ClInclude>
+    <ClInclude Include="ClassNPCFriendlyTalkingDWoman.h">
+      <Filter>Файлы заголовков\NPC\Determinated</Filter>
+    </ClInclude>
+    <ClInclude Include="ClassNPCFriendlyDBunny.h">
+      <Filter>Файлы заголовков\NPC\Determinated</Filter>
+    </ClInclude>
+    <ClInclude Include="ClassObject.h">
+      <Filter>Файлы заголовков\Object</Filter>
+    </ClInclude>
+    <ClInclude Include="ClassObjectAnim.h">
+      <Filter>Файлы заголовков\Object</Filter>
+    </ClInclude>
+    <ClInclude Include="ClassObjectDTree.h">
+      <Filter>Файлы заголовков\Object\Determinated</Filter>
+    </ClInclude>
+    <ClInclude Include="ClassObjectAnimDGrass.h">
+      <Filter>Файлы заголовков\Object\Determinated</Filter>
+    </ClInclude>
+    <ClInclude Include="EngineIntersection.h">
+      <Filter>Файлы заголовков\Engine</Filter>
+    </ClInclude>
+    <ClInclude Include="EnginePhysics.h">
+      <Filter>Файлы заголовков\Engine</Filter>
+    </ClInclude>
+    <ClInclude Include="Maps.h">
+      <Filter>Файлы заголовков\Maps</Filter>
+    </ClInclude>
+    <ClInclude Include="MapsFunctions.h">
+      <Filter>Файлы заголовков\Maps\MapsFunctions</Filter>
+    </ClInclude>
+    <ClInclude Include="ClassBar.h">
+      <Filter>Файлы заголовков\Interface</Filter>
+    </ClInclude>
+    <ClInclude Include="ClassHeroHealthBar.h">
+      <Filter>Файлы заголовков\Interface</Filter>
+    </ClInclude>
+    <ClInclude Include="ClassHeroStaminaBar.h">
+      <Filter>Файлы заголовков\Interface</Filter>
+    </ClInclude>
+    <ClInclude Include="ViewsAndWindow.h">
+      <Filter>Файлы заголовков\Interface</Filter>
+    </ClInclude>
+    <ClInclude Include="ClassHero.h">
+      <Filter>Файлы заголовков\Hero</Filter>
+    </ClInclude>
+    <ClInclude Include="ControlsCHero.h">
+      <Filter>Файлы заголовков\Hero</Filter>
+    </ClInclude>
+    <ClInclude Include="OptimizedRandom.h">
+      <Filter>Файлы заголовков\OptimizedFunctions</Filter>
+    </ClInclude>
+    <ClInclude Include="OptimizedFunctionsAnimationCHero.h">
+      <Filter>Файлы заголовков\OptimizedFunctions</Filter>
+    </ClInclude>
+    <ClInclude Include="OptimizedFunctionsAnimation.h">
+      <Filter>Файлы заголовков\OptimizedFunctions</Filter>
+    </ClInclude>
+    <ClInclude Include="OptimizedControlsCHero.h">
+      <Filter>Файлы заголовков\OptimizedFunctions</Filter>
+    </ClInclude>
+    <ClInclude Include="ClassNPCEnemy.h">
+      <Filter>Файлы заголовков\NPC</Filter>
+    </ClInclude>
+    <ClInclude Include="ClassNPCEnemyCommon.h">
+      <Filter>Файлы заголовков\NPC</Filter>
+    </ClInclude>
+    <ClInclude Include="ClassNPCEnemyCommonDHight.h">
+      <Filter>Файлы заголовков\NPC\Determinated</Filter>
+    </ClInclude>
+    <ClInclude Include="ClassNPCEnemyCommonDLight.h">
+      <Filter>Файлы заголовков\NPC\Determinated</Filter>
+    </ClInclude>
+    <ClInclude Include="ClassObjectAnimDReed.h">
+      <Filter>Файлы заголовков\Object\Determinated</Filter>
+    </ClInclude>
+    <ClInclude Include="ClassObjectDMapFirst.h">
+      <Filter>Файлы заголовков\Object\Determinated</Filter>
+    </ClInclude>
+    <ClInclude Include="ClassObjectDWall.h">
+      <Filter>Файлы заголовков\Object\Determinated</Filter>
+    </ClInclude>
+    <ClInclude Include="MapsNPC.h">
+      <Filter>Файлы заголовков\Maps</Filter>
+    </ClInclude>
+    <ClInclude Include="MapsNPCFunctions.h">
+      <Filter>Файлы заголовков\Maps\MapsFunctions</Filter>
+    </ClInclude>
+    <ClInclude Include="ClassObjectAnimDMapUndFirstTrack.h">
+      <Filter>Файлы заголовков\Object\Determinated</Filter>
+    </ClInclude>
+    <ClInclude Include="ClassObjectDBox.h">
+      <Filter>Файлы заголовков\Object\Determinated</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ClassDiagram.cd" />
+  </ItemGroup>
+</Project>
